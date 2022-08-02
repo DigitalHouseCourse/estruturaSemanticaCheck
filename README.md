@@ -1,6 +1,6 @@
 # estruturaSemanticaCheck
 ## Sala 9 
-##Integrantes
+## Integrantes
   - Ingrid Caroline
   - José Iranildo
   - Salomão Kim
